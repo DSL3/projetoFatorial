@@ -4,6 +4,7 @@ public class FatorialRecursivo{
 			return 1;
 		return n * calcularFatorialRecursivo(n-1)
 	}
+	//teste
 	public static void(String[] arqs){
 	     system.out.println(calcularFatorialRecursivo(5));		
 	}
